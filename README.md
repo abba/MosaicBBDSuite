@@ -14,14 +14,17 @@
 ### Test Run
 Using specific browser
 Specify parameter on CLI -DbrowserName with browser name to run test.
+
 Examples:
 
 mvn test -DbrowserName=firefox
+
 mvn test -DbrowserName=chrome
 
 Using specific tag or scenario test
 
 Examples:
+
 mvn test -DbrowserName=chrome -Dcucumber.options="-t @userLogin"
 
 
