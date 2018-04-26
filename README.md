@@ -28,3 +28,5 @@ Examples:
 mvn test -DbrowserName=chrome -Dcucumber.options="-t @userLogin"
 
 
+### Test Reports
+Reports and screenshots can be found under target folder after execution
