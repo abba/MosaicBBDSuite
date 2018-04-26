@@ -11,7 +11,7 @@
 6. Cucumber Reports
 
 ## Test Executions
-### Run Test
+### Test Run
 Using specific browser
 Specify parameter on CLI -DbrowserName with browser name to run test.
 Examples:
