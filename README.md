@@ -2,7 +2,7 @@
 1. Java JDK 8
 2. Maven 3
 
-##Libraries
+## Libraries
 1. CucumberJVM
 2. Hamcrest
 3. JUnit 4
@@ -11,7 +11,7 @@
 6. Cucumber Reports
 
 ## Test Executions
-###Run Test
+### Run Test
 Using specific browser
 Specify parameter on CLI -DbrowserName with browser name to run test.
 Examples:
